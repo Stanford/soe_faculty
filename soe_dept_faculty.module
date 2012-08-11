@@ -1,0 +1,3 @@
+<?php
+
+include_once('soe_dept_faculty.features.inc');
